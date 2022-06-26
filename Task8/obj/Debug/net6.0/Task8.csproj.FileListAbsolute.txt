@@ -1,0 +1,15 @@
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_1\Task8\bin\Debug\net6.0\Task8.exe
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_1\Task8\bin\Debug\net6.0\Task8.deps.json
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_1\Task8\bin\Debug\net6.0\Task8.runtimeconfig.json
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_1\Task8\bin\Debug\net6.0\Task8.dll
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_1\Task8\bin\Debug\net6.0\Task8.pdb
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_1\Task8\obj\Debug\net6.0\Task8.csproj.AssemblyReference.cache
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_1\Task8\obj\Debug\net6.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_1\Task8\obj\Debug\net6.0\Task8.AssemblyInfoInputs.cache
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_1\Task8\obj\Debug\net6.0\Task8.AssemblyInfo.cs
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_1\Task8\obj\Debug\net6.0\Task8.csproj.CoreCompileInputs.cache
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_1\Task8\obj\Debug\net6.0\Task8.dll
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_1\Task8\obj\Debug\net6.0\refint\Task8.dll
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_1\Task8\obj\Debug\net6.0\Task8.pdb
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_1\Task8\obj\Debug\net6.0\Task8.genruntimeconfig.cache
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_1\Task8\obj\Debug\net6.0\ref\Task8.dll
